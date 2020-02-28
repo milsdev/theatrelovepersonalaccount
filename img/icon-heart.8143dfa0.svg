@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>↳ Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.5,13 L5.5575,12.1367847 C2.21,9.08283379 0,7.06866485 0,4.59673025 C0,2.58256131 1.573,1 3.575,1 C4.706,1 5.7915,1.52970027 6.5,2.36675749 C7.2085,1.52970027 8.294,1 9.425,1 C11.427,1 13,2.58256131 13,4.59673025 C13,7.06866485 10.79,9.08283379 7.4425,12.1433243 L6.5,13 L6.5,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui/-personal-account/-tab-menu" transform="translate(-133.000000, -1.000000)">
+            <g id="Group-2" transform="translate(2.000000, 0.000000)">
+                <g id="Icon/-Like" transform="translate(131.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="colors-/-color-3" mask="url(#mask-2)" fill="#15B6FF" fill-rule="evenodd">
+                        <g transform="translate(-239.000000, -239.000000)" id="Rectangle-4">
+                            <rect x="0" y="0" width="500" height="500"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

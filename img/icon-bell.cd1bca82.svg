@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="13px" viewBox="0 0 11 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icon/ baseline-settings-20px (1) Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1,11.0104004 L12,11.0104004 L12,12.0104004 L1,12.0104004 L1,11.0104004 Z M6.5,0.510400391 C6.77614237,0.510400391 7,1.18197327 7,2.01040039 C7,2.02259809 6.99995147,2.03476179 6.99985495,2.04688983 C8.69612158,2.28843113 10,3.7471472 10,5.51040039 C10,5.67667967 9.98840465,5.84025071 9.96597842,6.00034903 L10,6 C10.0581,6.67914458 10.1891221,7.52968983 10.3930664,8.55163574 C10.5970107,9.57358166 11.0812229,10.4241269 11.8457031,11.1032715 L1.16479492,11.1032715 C2.09779733,10.3064581 2.62831491,9.56838028 2.75634766,8.88903809 C2.88438041,8.20969589 2.96559785,7.24668319 3,6 L3.03402158,6.00034903 C3.01159535,5.84025071 3,5.67667967 3,5.51040039 C3,3.7471472 4.30387842,2.28843113 6.00004975,2.0458377 L6,2.01040039 C6,1.18197327 6.22385763,0.510400391 6.5,0.510400391 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ui/-personal-account/-tab-menu" transform="translate(-346.000000, 0.000000)">
+            <g id="Group-2" transform="translate(2.000000, 0.000000)">
+                <g id="Icon/-notify" transform="translate(343.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="colors-/-color-3" mask="url(#mask-2)" fill="#15B6FF" fill-rule="evenodd">
+                        <g transform="translate(-239.000000, -239.000000)" id="Rectangle-4">
+                            <rect x="0" y="0" width="500" height="500"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

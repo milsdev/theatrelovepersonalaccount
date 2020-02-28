@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <linearGradient id="prefix__b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#696969" stop-opacity=".5"/>
+            <stop offset="100%" stop-color="#C4C4C4" stop-opacity=".495"/>
+        </linearGradient>
+        <path id="prefix__a" d="M13.093 1.442c.281.56.446 1.095.495 1.606A4.998 4.998 0 0118 8.012v4a5 5 0 01-5 5H5a5 5 0 01-5-5v-4a5 5 0 015-5h5.159l.036-.004c.423-.085.691-.43.805-1.036.124-.66-.276-1.31-1.201-1.947 1.674-.097 2.772.375 3.294 1.417z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 7)">
+        <use fill="url(#prefix__b)" transform="matrix(1 0 0 -1 0 17.025)" xlink:href="#prefix__a"/>
+    </g>
+</svg>

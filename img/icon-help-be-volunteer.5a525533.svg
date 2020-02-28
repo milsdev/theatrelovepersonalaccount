@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Icon/ baseline-settings-20px (1) Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.5,0 C10.0898509,0 13,2.91014913 13,6.5 C13,10.0898509 10.0898509,13 6.5,13 C2.91014913,13 0,10.0898509 0,6.5 C0,2.91014913 2.91014913,0 6.5,0 Z M6.5,9.5 C5.94771525,9.5 5.5,9.94771525 5.5,10.5 C5.5,11.0522847 5.94771525,11.5 6.5,11.5 C7.05228475,11.5 7.5,11.0522847 7.5,10.5 C7.5,9.94771525 7.05228475,9.5 6.5,9.5 Z M6,1.61828613 C4.3425,1.61828613 2.67578125,3.04943848 2.67578125,5 L2.67578125,5 L4.25524902,5 C4.25524902,3.69177246 5.175,3.20727539 6,3.20727539 C6.825,3.20727539 7.68566895,3.45544434 7.68566895,4.63012695 C7.68566895,5.96346029 5.6809082,5.83333333 5.6809082,8 L5.6809082,8 L7.33081055,8 C7.33081055,6.5 9.25195312,6.29679362 9.25195312,4.63012695 C9.25195312,3.02734375 7.6575,1.61828613 6,1.61828613 Z" id="path-1"></path>
+    </defs>
+    <g id="Personal-account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Personal-account/-Dashboard-1920" transform="translate(-1134.000000, -611.000000)">
+            <g id="Group-4" transform="translate(560.000000, 110.000000)">
+                <g id="Group-3" transform="translate(213.000000, 494.000000)">
+                    <g id="Icon/-question" transform="translate(361.000000, 7.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="colors-/-color-9" mask="url(#mask-2)" fill="#D6DBE2" fill-rule="evenodd">
+                            <g transform="translate(-239.000000, -239.000000)" id="Rectangle-4">
+                                <rect x="0" y="0" width="500" height="500"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
